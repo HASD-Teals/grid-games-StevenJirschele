@@ -59,6 +59,7 @@ public class App {
                     count = 0;
                 }
             }
+            count = 0;
         }
         return false;
     }
@@ -76,6 +77,7 @@ public class App {
                     count = 0;
                 }
             }
+            count = 0;
         }
         return false;
     }
